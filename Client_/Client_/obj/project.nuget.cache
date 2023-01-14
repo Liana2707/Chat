@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVg17SPuHA3gpC/IJJdw+G6DOgjV13tI0HuF+Ma0Edr3wF7fpJ8osbQIvCZLNw1KieCUCrO0gx3DWNu9MMtmhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Лиана\\source\\repos\\Client_\\Client_\\Client_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Лиана\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
